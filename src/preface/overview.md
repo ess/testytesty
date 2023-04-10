@@ -12,7 +12,7 @@ That's a really, really good question. I've seen about as many definitions as I'
 
 > Behavior-Driven Development is the practice by which we describe the desired behavior of a piece of software (as a whole, as a component, etc), then write just enough code to make that description a reality.
 
-If you're anything like me at a point before I started being such a pedantic tester, that might seen completely backwards. How are we supposed to observe and test behavior that doesn't exist?
+If you're anything like me at a point before I started being such a pedantic tester, that might seem completely backwards. How are we supposed to observe and test behavior that doesn't exist?
 
 We'll get to that later. For now, just trust me, it's great.
 
